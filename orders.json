@@ -36,12 +36,12 @@
       "lng": ""
     },
     "delivery": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
-      "lat": "",
-      "lng": ""
+      "street": "Keltenstraße 45",
+      "postal_code": "72393",
+      "city": "Burladingen-Starzeln",
+      "country": "Deutschland",
+      "lat": "48.30265309660837",
+      "lng": "9.059580696823831"
     }
   }
 }
